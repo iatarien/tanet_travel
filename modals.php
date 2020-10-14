@@ -24,13 +24,13 @@
                 <div class="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
                   <a href="assets/img/gallery/tadrart/1.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/1.jpg" alt=""></a>
                   <a href="assets/img/gallery/tadrart/2.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/2.jpg" alt=""></a>
+                  <a  onclick="Linkclick('https://www.youtube.com/watch?v=ggbTh-b_ykg&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/11.jpg" alt=""></a>
                   <a href="assets/img/gallery/tadrart/3.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/3.jpg" alt=""></a>
                   <a href="assets/img/gallery/tadrart/4.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/4.jpg" alt=""></a>
+                  <a  onclick="Linkclick('https://www.youtube.com/watch?v=Kssat-3N2yM&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/12.jpg" alt=""></a>
                   <a href="assets/img/gallery/tadrart/5.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/5.jpg" alt=""></a>
                   <a href="assets/img/gallery/tadrart/6.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/6.jpg" alt=""></a>
                   <a href="assets/img/gallery/tadrart/7.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/7.jpg" alt=""></a>
-                  <a  onclick="Linkclick('https://www.youtube.com/watch?v=ggbTh-b_ykg&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/11.jpg" alt=""></a>
-                  <a  onclick="Linkclick('https://www.youtube.com/watch?v=Kssat-3N2yM&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/12.jpg" alt=""></a>
                   <a  onclick="Linkclick('https://www.youtube.com/watch?v=k7XX81MqznQ&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/13.jpg" alt=""></a>
                 </div>
 
@@ -64,16 +64,17 @@
               <!-- ======= Gallery Section ======= -->
               <div id="gallery">
                 <div class="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
-                  <a href="assets/img/gallery/tadrart/1.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/1.jpg" alt=""></a>
-                  <a href="assets/img/gallery/tadrart/2.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/2.jpg" alt=""></a>
-                  <a href="assets/img/gallery/tadrart/3.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/3.jpg" alt=""></a>
-                  <a href="assets/img/gallery/tadrart/4.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/4.jpg" alt=""></a>
-                  <a href="assets/img/gallery/tadrart/5.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/5.jpg" alt=""></a>
-                  <a href="assets/img/gallery/tadrart/6.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/6.jpg" alt=""></a>
-                  <a href="assets/img/gallery/tadrart/7.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tadrart/7.jpg" alt=""></a>
-                  <a  onclick="Linkclick('https://www.youtube.com/watch?v=ggbTh-b_ykg&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/11.jpg" alt=""></a>
-                  <a  onclick="Linkclick('https://www.youtube.com/watch?v=Kssat-3N2yM&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/12.jpg" alt=""></a>
-                  <a  onclick="Linkclick('https://www.youtube.com/watch?v=k7XX81MqznQ&ab_channel=TanetVoyages');"><img class="slider-image" src="assets/img/gallery/tadrart/13.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/1.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/1.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/2.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/2.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/3.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/3.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/4.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/4.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/5.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/5.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/6.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/6.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/7.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/7.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/8.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/8.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/9.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/9.jpg" alt=""></a>
+                  <a href="assets/img/gallery/tassili/10.jpg" class="venobox" data-gall="gallery-carousel"><img class="slider-image" src="assets/img/gallery/tassili/10.jpg" alt=""></a>
+
                 </div>
 
               </div><!-- End Gallery Section -->
